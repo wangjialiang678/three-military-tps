@@ -1,5 +1,7 @@
 # three-military-tps
 
+> ⚠️ 本仓库已归档。项目已并入 monorepo [3d-game-kit](https://github.com/wangjialiang678/3d-game-kit)（共用框架 + 多个 demo），请到那里获取最新版本。
+
 在 [three-fps-modern](../three-fps-modern) 的同一套 ECS 引擎上做的**第三人称军事射击**（类似《三角洲行动》的越肩视角），**全部美术资产换成了新的、可下载的 CC0 素材**，并新增了**第一/第三人称切换**和**多个士兵 NPC**。
 
 ## 📖 文档
